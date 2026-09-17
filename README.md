@@ -2,7 +2,7 @@
 >An Excel based analysis of 2023 data science job postings, exploring the relationship between skills and salary, regional salary differences, and the most in demand skills across data roles. Built using Power Query, Power Pivot, DAX, Pivot Tables, and Pivot Charts to transform, analyse, and visualize real world job market data.
 
 
-### 📑 Table of Contents
+## 📑 Table of Contents
 
 - [📌 Project Overview](#project-overview)
 - [🎯 Research Questions](#research-questions)
@@ -14,6 +14,8 @@
 - [4️⃣ Salary Associated with the Top 10 Skills](#salary-top-10-skills)
 - [🏁 Conclusion](#conclusion)
 - [🙌 Credits](#credits)
+
+  
 
 ## 📌 Project Overview
 
