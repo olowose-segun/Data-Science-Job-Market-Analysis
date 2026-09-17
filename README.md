@@ -53,8 +53,11 @@ To investigate whether job postings requesting a greater number of skills are as
 
 I used **Power Query** to import the original `data_salary_all.xlsx` file and created two queries:
 - **`data_jobs_all`**  Containing general information about each data-related job posting.
+- 
+
 
 - **`data_job_skills`**  Containing the skills associated with each job ID.
+
 
 ### 🔄 Data Transformation
 
@@ -68,15 +71,21 @@ The queries were cleaned and prepared by:
 
 ### 📊 Data Preparation
 
-![Data Jobs All](/0_Resources/Images/2_Project_Analysis_Screenshot1.png)
+![`data_jobs_all`](<img width="315" height="384" alt="Screenshot 2026-09-17 234931" src="https://github.com/user-attachments/assets/ff6e2f72-db39-4554-b9ed-6cec1029697a" />)
 
-![Data Job Skills](/0_Resources/Images/2_Project_Analysis_Screenshot2.png)
+
+![`data_job_skills`](<img width="311" height="397" alt="Screenshot 2026-09-17 235025" src="https://github.com/user-attachments/assets/dee6a9dd-f7da-4306-8ef8-7c510d670f49" />)
+
+
+
 
 After completing the transformations, both queries were loaded into the workbook for further analysis.
 
-![Loaded Data Jobs All](/0_Resources/Images/2_Project_Analysis_Screenshot3.png)
+<img width="1912" height="834" alt="Screenshot 2026-09-17 235221" src="https://github.com/user-attachments/assets/33ddca38-a6e3-4e57-9b20-e8ad63a641d0" />
 
-![Loaded Data Job Skills](/0_Resources/Images/2_Project_Analysis_Screenshot4.png)
+
+<img width="1914" height="828" alt="Screenshot 2026-09-17 235402" src="https://github.com/user-attachments/assets/1bbce45a-cf7e-44d2-88e6-900a17772fae" />
+
 
 
 ### 📈 Findings
@@ -87,7 +96,8 @@ Roles requiring fewer specialised skills, such as **Business Analyst**, generall
 
 However, the results indicate an association rather than proof that acquiring additional skills directly causes higher pay.
 
-![Skills vs Median Salary](/0_Resources/Images/2_Project_Analysis_Chart1.png)
+![Skills vs Median Salary]<img width="866" height="474" alt="Screenshot 2026-09-17 235627" src="https://github.com/user-attachments/assets/41870a50-12c8-49aa-95cb-8b4c7bd02097" />
+
 
 ### 💡 Key Takeaway
 
